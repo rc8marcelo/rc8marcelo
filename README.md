@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rc8marcelo
+- 👀 I’m interested in mobile development, Flutter, and programming in general
+- 🌱 I’m currently learning how to use Flutter outside of mobile
